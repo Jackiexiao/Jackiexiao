@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @Jackiexiao, a software developer focus on speech synthesis.
-- 🔭 I’m currently working on a side project [Gennia Game](https://github.com/GenniaApp/GenniaServer2)
+- 🔭 I’m currently working on a side project [Gennia Game](https://github.com/GenniaApp/GenniaServer2), [My blog(zh)](https://blog.jackiexiao.com)
 - 👀 I'm fascinated by the idea of being a independent developer.
 - 📫 Reach me on Twitter: [@realjackiexiao](https://twitter.com/realJackieXiao), glad to make friend with you.
 - 🌱 My life goal is to pursue truth / lesswrong , understand myself and the world.
