@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @Jackiexiao, a software developer focus on speech synthesis.
-- 🔭 I’m currently working on a side project [Gennia Game](https://github.com/GenniaApp/GenniaServer2), [My blog(Chinese)](https://jackiexiao.com)
-- 👀 I'm fascinated by the idea of being a independent developer.
+- 👋 Hi, I'm @Jackiexiao, an indie developer and the founder of [HackathonWeekly.com](https://hackathonweekly.com)
+- 🔨 I love building useful tools and websites. Check out my projects:
+  - [Gennia Game](https://github.com/GenniaApp/GenniaServer2)
+  - [HackathonWeekly.com](https://hackathonweekly.com)
+  - [My blog(Chinese)](https://jackiexiao.com)
+- 👀 I'm living my dream as an independent developer, creating products that solve real problems.
 - 📫 Reach me on Twitter: [@realjackiexiao](https://twitter.com/realJackieXiao), glad to make friend with you.
 - 🌱 My life goal is to pursue truth / lesswrong , understand myself and the world.
 - ⚡ My favorite software : Ticktick, Obsidian, Raycast, Copilot Chat, Vscode, Vim
